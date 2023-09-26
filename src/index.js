@@ -3,9 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 
 
-window.particlesJS('particles-js', {
-    // Your particles.js configuration here
-});
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
